@@ -8,7 +8,7 @@
       <span>openHAB</span>
       <span><li>Fritz!200 Steckdose</span>
       <span><li>Fritz!302 Thermostate<span>
-      <span><li>Fritz!tür-Kontakt</li>span>
+      <span><li>Fritz!tür-Kontakt</span>
       <span><li>iCloud-Anbindung</span>
       <span><li>und vieles mehr</span>
     </td>
