@@ -1,27 +1,14 @@
-<div align="center">
+  👋 Moin! Ich bin Klaus-J — beruflich in der CyberSecurity, aber im privaten Leben interessiert mich beinahe alles, was mit IT zu tun hat. Von Hardware über OS (Linux und macOS), Skripten mit zsh, Python, R und vielen anderen Themen.<br /><br />
+</p>
 
-  <p>
-    👋 Moin! Ich bin <strong>Klaus‑J</strong> — beruflich in der CyberSecurity, aber privat interessiert mich alles rund um IT:
-    Hardware, Linux, macOS, zsh, Python, R und vieles mehr.<br /><br />
-  </p>
-
-  <table>
-    <tr>
-      <td 
-        bgcolor="#1e1e1e" 
-        style="padding: 15px; border-radius: 8px; color: #ffffff; border: 1px solid #444;"
-      >
-        <strong>Und natürlich Smarthome mit</strong><br />
-        openHAB
-      </td>
-
-      <td 
-        bgcolor="#f4f4f4" 
-        style="padding: 15px; border-radius: 8px; border: 1px solid #ccc;"
-      >
-        <img src="./Klaus@Work.png" width="170" height="227" alt="Klaus-J bei der Arbeit" />
-      </td>
-    </tr>
-  </table>
-
-</div>
+<table style="background-color=#2c2c2c; border-collapse: collapse; margin: auto;">
+  <tr>
+    <td style="padding: 15px; background-color: #1e1e1e; color: #ffffff; border-radius: 8px;">
+      <span style="font-weight: bold;">Und natürlichSmarthome mit</span><br />
+      <span>openHAB</span>
+    </td>
+    <td style="padding: 15px; background-color: #f4f4f4; border-radius: 8px;">
+      <img src="./Klaus@Work.png" width="170px" height="227px" alt="Klaus-J bei der Arbeit" />
+    </td>
+  </tr>
+</table>
