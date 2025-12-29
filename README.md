@@ -3,7 +3,7 @@
 
 <table style="background-color=#2c2c2c; border-collapse: collapse; margin: auto;">
   <tr>
-    <td style="padding: 15px; background-color: #1e1e1e; color: #ffffff; border-radius: 8px;">
+    <td width="250" style="padding: 15px; background-color: #1e1e1e; color: #ffffff; border-radius: 8px;">
       <span style="font-weight: bold;">Und natürlichSmarthome mit</span><br />
       <span>openHAB</span>
       <span><li>Fritz!200 Steckdose</span>
