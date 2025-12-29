@@ -4,11 +4,11 @@
 
 <table style="border-collapse: collapse; margin: auto;">
   <tr>
-    <td style="padding: 15px; background-color: #1e1e1e; color: #ffffff; border-radius: 8px;">
+    <td style="padding: 15px; background-color: #2c2c2c; color: #ffffff; border-radius: 8px;">
       <span style="font-weight: bold;">Smarthome mit</span><br />
       <span>openHAB</span>
     </td>
-    <td style="padding: 15px; background-color: #f4f4f4; border-radius: 8px;">
+    <td style="padding: 15px; background-color: #dcdcdc; border-radius: 8px;">
       <img src="./Klaus@Work.png" width="170px" height="227px" alt="Klaus-J bei der Arbeit" />
     </td>
   </tr>
