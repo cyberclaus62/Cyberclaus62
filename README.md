@@ -1,16 +1,15 @@
 <p align="center">
-  👋 Moin! Ich bin Klaus-J — beruflich in der CyberSecurity, aber im privaten Leben interessiert mich beinahe alles, was mit IT zu tun hat. Von Hardware über OS (Linux und macOS), Skripten mit zsh, Python, R und vielen anderen Themen.<br /><br /></p>
+  👋 Moin! Ich bin Klaus-J — beruflich in der CyberSecurity, aber im privaten Leben interessiert mich beinahe alles, was mit IT zu tun hat. Von Hardware über OS (Linux und macOS), Skripten mit zsh, Python, R und vielen anderen Themen.<br /><br />
+</p>
 
-<table >
+<table style="border-collapse: collapse; margin: auto;">
   <tr>
-    <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Smarthome mit</span><br />
-      <span style="color: white;">openHAB</span>
+    <td style="padding: 15px; background-color: #1e1e1e; color: #ffffff; border-radius: 8px;">
+      <span style="font-weight: bold;">Smarthome mit</span><br />
+      <span>openHAB</span>
     </td>
-    <td><img src="./Klaus@Work.png" width="170px" height="227px" alt="Klaus-J bei der Arbeit" /></td>
+    <td style="padding: 15px; background-color: #f4f4f4; border-radius: 8px;">
+      <img src="./Klaus@Work.png" width="170px" height="227px" alt="Klaus-J bei der Arbeit" />
     </td>
   </tr>
 </table>
-
-###
-
